@@ -4,7 +4,7 @@ This is a basic CRUD (Create, Read, Update, Delete) web application made in a fe
 ## Made on
 - 12.1.2020.
 
-## Technologies used:
+## Technologies used
 - HTML
 - CSS
 - PHP
