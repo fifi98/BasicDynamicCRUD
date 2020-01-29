@@ -1,0 +1,10 @@
+.container-fluid {
+  padding: 40px;
+}
+
+.card_data-body {
+    padding: 0;
+}
+.card_data-body > .table{
+  margin-bottom:0px;
+}
